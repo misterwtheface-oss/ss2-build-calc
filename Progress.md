@@ -21,3 +21,7 @@ kinds and icon sheets must resolve or data.js is not written).
 - P1: item detail pages (where it drops, shop, smith recipe); build share link.
 - P2: class portraits (portrait banks 115-120, 198-200, 287: mapping open); skill-screen art for skill names.
 - Open game questions (in-game checks) live in the extract: EXTRACT_PLAN.md § Open.
+
+## Session log
+- 2026-11-10 [ss2.app] changed 15 files (app scaffold, data build, registry node)
+  What changed and why: first build of the calculator from datamine depth pass 1, deployed live so the user can see what the datamine covers.  Open after this session: user feedback on the app; P1 backlog above.
